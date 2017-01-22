@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "**Why I Began My Journey**"
-date:   2017-01-22 16:41:39 +0000
+title:  "Why I Began My Journey"
+date:   2017-01-22 11:41:39 -0500
 ---
 
 
