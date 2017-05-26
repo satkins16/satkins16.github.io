@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  Developing My First Web App
-date:   2017-05-26 00:01:30 +0000
+date:   2017-05-25 20:01:31 -0400
 ---
 
 
@@ -14,7 +14,7 @@ While I faced a few tough errors that took me some time to correct, overall, thi
 This app allows you to quickly and simply create an event, fill that event with gifts (to which have gift givers attached), and view a checklist for thank you notes. You can create, edit, and delete events, gifts, and gift givers. You can also view a list of all gift givers that have ever been entered into the database so if you ever need an idea for a gift to get someone else, you can see the entire history of what that person has gotten you in the past.
 
 ![](http://i.imgur.com/vbkqyil.png)
-![](http://i.imgur.com/vbkqyil.png)
+![](http://i.imgur.com/4SCwOsQ.png)
 ![](http://i.imgur.com/pCpET0p.png)
 ![](http://i.imgur.com/ZuQW9xC.png)
 
